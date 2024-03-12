@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: "尋覓無邊路遠"
 subtitle: ""
-description: ""
-keywords:
-author: John Doe
+description: "Personal notes begin in 2024"
+keywords: ["Java", "JS", "Reading"]
+author: callmeswing
 language: en
 timezone: ""
 
